@@ -1,0 +1,5 @@
+{
+  "name": "Solar System Orbit Simulator",
+  "description": "A high-fidelity solar system simulation where Earth orbits the Sun exactly once per minute. Visualize relative orbital periods and planetary positions.",
+  "requestFramePermissions": []
+}
